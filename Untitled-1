@@ -1,0 +1,68 @@
+==old content==
+<html>
+<div class="pagediv1">
+<h2>Generic Font Family</h2>
+<p>Here’s some generic and easy to use fonts<br>
+This is the code:<br>
+<iframe class="tallframe" src="http://www.bigewiki.com/css/fontfamily.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe" src="http://www.bigewiki.com/css/fontfamily.html"></iframe></p>
+<hr>
+<h2>CSS Pics 1</h2>
+<p>This is the code:<br>
+<iframe class="tallframe" src="http://www.bigewiki.com/css/csspics1.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe2" src="http://bigewiki.com/css/csspics1.html"></iframe></p>
+<hr>
+<h2>CSS Pics 2</h2>
+<p>This is the code:<br>
+<iframe class="tallframe" src="http://www.bigewiki.com/css/csspics2.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe2" src="http://bigewiki.com/css/csspics2.html"></iframe></p>
+<hr>
+<h2>Center</h2>
+<p>Use “margin:0 auto;” to center something<br>
+This is the code:<br>
+<iframe class="tallframe" src="http://www.bigewiki.com/css/centered.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe" src="http://www.bigewiki.com/css/centered.html"></iframe></p>
+<hr>
+<h2>Right-click copy image disable</h2>
+<p>This makes it so the average user can’t right click an image to copy it. The image’s url is still visible in the source or course, someone who knows what they’re doing can still grab the image source.<br>
+This is the code:<br>
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/copyimagedisable.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/copyimagedisable.html"></iframe></p>
+<hr>
+<h2>Social Media Links (clip to bottom right)</h2>
+<p>The social media links are fixed to the bottom left of the screen, they will stay there no matter how much you scroll.<br>
+This is the code:<br>
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/socialmedia.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/socialmedia.html"></iframe></p>
+<hr>
+<h2>Filter</h2>
+<p>This example uses grayscale, there are more effects, look here:<br>
+<a href="http://www.w3schools.com/cssref/css3_pr_filter.asp">http://www.w3schools.com/cssref/css3_pr_filter.asp</a></p>
+<p>This is the code:<br>
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/grayscale.txt"></iframe><br>
+See it in action:<br>
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/grayscale.html"></iframe></p>
+<p><!--
+
+
+
+
+<h2>title</h2>
+
+
+
+This is the code:
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/filename.txt"></iframe>
+See it in action:
+<iframe class="tallframe2" src="http://www.bigewiki.com/css/filename.html"></iframe>
+
+
+--></p>
+</div>
+</html>
